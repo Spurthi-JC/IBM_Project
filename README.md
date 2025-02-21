@@ -40,7 +40,7 @@ Before running this application, make sure you have the following installed:
 
 1. Clone the repository
 bash
-git clone https://github.com/Tejashree-V/IBM-PROJECT
+git clone https://github.com/Spurthi-JC/IBM_Project
 cd task-management-app
 
 
@@ -153,7 +153,7 @@ Your Name - Tejashree V
             Spurthi J C
             Devika A
             Usha NV
-Project Link: https://github.com/Tejashree-V/IBM-PROJECT
+Project Link: https://github.com/Spurthi-JC/IBM_Project
 ## Acknowledgments
 
 - [React Documentation](https://reactjs.org/)
